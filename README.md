@@ -135,6 +135,7 @@ pip install -r requirements.txt
 ### ▶️ Run the Application
 Start the Streamlit application using:
 > streamlit run app.py
+
 The application will open in your default web browser.
 
 ---
@@ -155,6 +156,7 @@ Download the quality-control results as a CSV file.
 ### 📄 Sample Data
 A sample FASTA file is included in the sample_data directory for testing.
 > cd sample_data/sample.fasta
+
 The sample dataset allows users to explore the application without needing to provide their own FASTA file.
 
 ---
