@@ -1,0 +1,14 @@
+**Language**
+Python
+
+**Bioinformatics**
+Biopython — FASTA parsing and sequence analysis
+
+**Data Analysis**
+Pandas — QC data organization and CSV export
+
+**Visualization**
+Matplotlib — sequence-length distribution
+
+**Web Application**
+Streamlit — interactive user interface
